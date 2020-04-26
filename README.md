@@ -1,7 +1,7 @@
 
 ## Project setup
 ```
-$ git clone  or download it into a directory of your choice.
+$ git clone https://github.com/krasnovdanial/SURFing.git or download it into a directory of your choice.
 ```
 
 ```
